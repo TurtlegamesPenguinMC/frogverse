@@ -1,13 +1,3 @@
 {
-  "itemGroup.frogverse": "Example Mod Tab",
-  "block.frogverse.example_block": "Example Block",
-  "item.frogverse.example_item": "Example Item",
-
-  "frogverse.configuration.title": "Frogverse Configs",
-  "frogverse.configuration.section.frogverse.common.toml": "Frogverse Configs",
-  "frogverse.configuration.section.frogverse.common.toml.title": "Frogverse Configs",
-  "frogverse.configuration.items": "Item List",
-  "frogverse.configuration.logDirtBlock": "Log Dirt Block",
-  "frogverse.configuration.magicNumberIntroduction": "Magic Number Text",
-  "frogverse.configuration.magicNumber": "Magic Number"
+  "item.frogverse.raw_frogite": "Raw Frogite"
 }
